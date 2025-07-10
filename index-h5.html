@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title></title>
+
+    <link href="css/pure-min.css" rel="stylesheet" type="text/css">
+    <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <link href="css/flip.min.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="js/libs/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/libs/libs.min.js"></script>
+</head>
+
+<body>
+    <div class="book-background"></div>  
+    <div id="top" class="pure-g mobileHide">
+        <div id="top-ad-position" class="pure-u-1-1"></div>
+        <div id="top-container" class="pure-u-1-1">
+            <div class="top-menu"></div>
+        </div>
+    </div>
+
+    <div class="pure-g">
+
+        <div id="side" class="pure-u-1-24 mobileHide">
+            <div class="side-container">
+                <div id="side-plane">
+                    <div id="plane-container">
+                        <div id="plane-container-title">
+                            <div id="side-plane-box-lable"></div>
+                            <div id="side-plane-box-close" class="icon-cross"></div>
+                        </div>
+                        <div id="plane-container-content"></div>
+                    </div>
+                    <div id="plane-icon"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="main" class="pure-u-23-24">
+            <div class="viewport">
+                <div id="dialogLayer"></div>
+                <div class="flipbook">
+                    <div id="positionElementLayer" ignore="1">
+                        <div id="leftPage" class="pageLayer"></div>
+                        <div id="rightPage" class="pageLayer"></div>
+                    </div>
+                    <div id="main-ad-position" ignore="1"></div>
+                    <div id="bookAddit" ignore="1"></div>
+                </div>
+                <div id="previous-button"><a class="icon-leftArrow center"></a></div>
+                <div id="next-button"><a class="icon-rightArrow center"></a></div>
+            </div>
+
+        </div>
+
+        <div id="right-ad-position">
+        </div>
+
+    </div>
+
+    <div id="bottom" class="pure-g mobileHide">
+        <div id="bottom-container" class="pure-u-1-1">
+            <div class="bottom-menu"></div>
+        </div>
+    </div>
+
+    <div id="thumbnail" class="pure-g mobileHide">
+
+        <div class="pure-u-1-1">
+
+            <div class="thumbnail-container">
+                <div id="thumbnail-button"></div>
+                <div class="thumbnail-list"></div>
+                <a id="thumbnail-arrow-prev" class="icon-leftArrow"></a>
+                <a id="thumbnail-arrow-next" class="icon-rightArrow"></a>
+            </div>
+
+        </div>
+
+    </div>
+
+    
+
+    
+
+    <script type="text/javascript" src="js/load.min.js"></script>
+</body>
+</html>
