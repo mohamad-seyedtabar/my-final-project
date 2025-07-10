@@ -1,0 +1,38 @@
+<bookinfo id="atlas_amozesh" autoFlipSeconds="5" autoMoveAfterZoom="false" bgColor="#454545" bgImage="" shadow="true" pageWidth="1358" pageHeight="1772" flipSpeedBoost="80" title="atlas amozesh" author="" zipIcon="content/images/iconZip.gif" exeIcon="content/images/iconExe.gif" companyUrl="" gateway="http://flipcreator.net/share/email.php" shareUrl="index.html" bookmarkWidth="18" bookmarkHeight="150" bookmarkFontSize="10" defaultZoomScale="2" clickToZoom="singleclick" windowColor="#454545" rightToLeft="false" autoFlip="false" fitScreenAfterZoom="false" zoomAfterLoaded="false" limitTo100="false" showZoomBox="false" mouseWheelZoom="false" flipArrow="false" bookSize="10" thickness="0" companyName="" companyAddress="" tel="" email="" loadingLogo="" zipUrl="offline/.zip" exeUrl="offline/.exe" fullScreen="false" hardCover="false" pdfUrl="" lic="pK2SsJWjo2Q=" password="gbCVb3avoa15" analyticsUA="">
+	<leftmenu showTabBackground="true" visible="true" hideAfterZoom="true">
+		<issues visible="false" icon=""/>
+		<toc visible="true" icon=""/>
+		<thumbs visible="true" icon=""/>
+		<email visible="true" icon=""/>
+		<sns visible="false" icon=""/>
+		<print visible="true" icon=""/>
+		<pdf visible="true" singlePage="true" doublePage="true" entirePDF="false" icon=""/>
+		<download visible="false" icon=""/>
+		<setting visible="true" icon=""/>
+		<about visible="true" icon=""/>
+		<close visible="false" icon=""/></leftmenu>
+	<bottommenu background="content/images/menuBackground.png" visible="true" iconSameSize="false" position="top" hideAfterZoom="true" showBackground="false" autoHideOnFullScreen="true">
+		<help visible="true" url="" icon=""/>
+		<info visible="true" url="http://www.ePageCreator.net" icon=""/>
+		<zoom visible="true" mode="normal" icon="" dicon=""/>
+		<autoflip visible="true" icon=""/>
+		<search visible="true" icon=""/>
+		<highlight visible="true" icon=""/>
+		<bookmark visible="true" icon=""/>
+		<notes visible="true" icon=""/>
+		<fullscreen visible="true" icon="" dicon=""/>
+		<sound visible="false" icon="" dicon=""/><back visible="true" icon=""/><forward visible="true" icon=""/></bottommenu>
+	<contextmenu>
+	</contextmenu>
+	<tks>
+		<tk begin="1" end="2" value="1"/>
+		<tk begin="3" end="5" value="2"/>
+		<tk begin="6" end="10" value="3"/>
+		<tk begin="11" end="20" value="4"/>
+		<tk begin="21" end="30" value="5"/>
+		<tk begin="31" end="40" value="6"/>
+		<tk begin="41" end="60" value="7"/>
+		<tk begin="61" end="120" value="8"/>
+		<tk begin="121" end="0" value="9"/>
+	</tks>
+	<bottomthumb bgAlpha="0" bgColor="#000000" visible="true"/><tooltip bgColor="#000000 " fgColor="#FFFFFF " showZoomTip="true" showFlipTip="true"/><bookLogo url="content/images/logo-poweredby.png" href="http://www.ePageCreator.net"/></bookinfo>
